@@ -12,3 +12,4 @@
 <br>
 <br>
 <img src="https://github.com/Morais82/JokenP-/blob/main/assets/Captura%20de%20tela%202025-02-27%20192333.png?raw=true">
+<img src="https://github.com/Morais82/JokenP-/blob/main/assets/Captura%20de%20tela%202025-02-27%20193401.png?raw=true">
